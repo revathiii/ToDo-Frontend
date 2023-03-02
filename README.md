@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##ToDo MERN App
+<b>ToDo MERN App</b>
 
 ![Home](https://user-images.githubusercontent.com/78149796/222507738-f782f9a5-8519-4f53-9bc3-00f89a04af24.jpg)
 ![Home1](https://user-images.githubusercontent.com/78149796/222507849-650af1aa-bd4a-456a-89df-189a501d258e.jpg)
