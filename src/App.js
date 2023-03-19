@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const api_base = 'https://my-todolist-w323.onrender.com';
+const api_base = 'http://localhost:3001';
 
 function App() {
 	const [todos, setTodos] = useState([]);
